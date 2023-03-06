@@ -315,6 +315,7 @@
 																</div>
 																<div class="product-description">
 																	<h5><?php echo $item['name']; ?></h5>
+																	<p><?php echo $item['description']; ?></p>
 																	<div class="price-box">
 																		<span class="price"><?php echo $item['price']; ?> грн</span>
 																	</div>
